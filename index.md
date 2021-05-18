@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+![la lune](gion.jpg "Voyage to the moon")
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,9 +25,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![gion.jpg](src)
+```
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekylll+1 Themes
