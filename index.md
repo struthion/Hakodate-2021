@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - Willkommen auf meinen GitHub-Seiten
 
 You can use the [editor on GitHub](https://github.com/struthion/p2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
